@@ -1,4 +1,4 @@
-package OneDArray;
+// package OneDArray;
 
 //Binary search aproach
 public class CeilingNumber {
