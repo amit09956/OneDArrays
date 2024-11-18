@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class practice3 {
     public static void findduplicates(int arr1[],int arr2[],int newarr[]){
         
-        for(int i=0;i<arr1.length;i++){
+        for(int i=0;i<arr1.length;i++){//gdgggghgf
             newarr[i]=arr1[i];
         }
         for(int j=0;j<arr2.length;j++){
