@@ -1,4 +1,4 @@
-package OneDArrays;
+//package OneDArrays;
 import java.util.Scanner;
 import java.util.Arrays;
 @SuppressWarnings("unused")

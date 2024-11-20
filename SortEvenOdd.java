@@ -1,4 +1,4 @@
-package OneDArray;
+//package OneDArray;
 
 //gikven an integer array "a"move all the even integer at the begining of the array folowed byall th e odd integers the relative order 
 //of odd or even integers does not matter .return any array that satisfies the condition?

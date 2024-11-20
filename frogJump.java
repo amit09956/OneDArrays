@@ -1,4 +1,4 @@
-package OneDArray;
+//package OneDArray;
 
 public class frogJump {
     public static Boolean  frogJump(int[] nums) {
